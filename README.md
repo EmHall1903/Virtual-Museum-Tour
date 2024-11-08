@@ -1,5 +1,17 @@
 # Virtual-Museum-Tour
 
+#Introduction
+#This project aims to give those who cannot physically attend Museums, a chance to #do so. It offers an interactive experience with multiple artworks.
+
+#Technologies:
+#This project uses Python language and was creating in Processing and Google Collab.
+
+#Launch: 
+#I hope you enjoy using the project, the code is simple but mostly effective in #performing its functionality. When launching ensure you have the two images #uploaded to your collab folder in order for them to run properly.
+
+
+#Sources:
+
 #Code for importing drawings was drawn from (Creamer,2012). - Parts were adjusted and changed to fit project needs
 # Creamer, S. (2012, July 30). PIL image.open() working for some images but not others. Stack Overflow. https://stackoverflow.com/questions/11727598/pil-image-open-working-for-some-images-but-not-others
 
