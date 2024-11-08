@@ -27,6 +27,11 @@
 #Code for using PIL (pillow) in python - specifically the comment from Asma Gheisari - from here process was trial and error.
 #ImportError: No module named PIL. (n.d.). Stack Overflow. https://stackoverflow.com/questions/8863917/importerror-no-module-named-pil
 
+#Code for how to write a good README file:
+#Łyczywek, R. (2018, October 15). How to write a good README for your GitHub project? Bulldogjob.com; Bulldogjob. https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project 
+
+‌
+
 ‌
 ‌
 
